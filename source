@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("Paste here"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GeorgeRoblox/vertuxmainv2/refs/heads/main/source?token=GHSAT0AAAAAAC7VWY5EKTBSQMRQ64VLI3MCZ6APR7Q"))()
